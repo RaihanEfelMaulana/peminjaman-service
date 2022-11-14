@@ -1,0 +1,8 @@
+com\raihanefelmaulana\peminjaman\service\Entity\Peminjaman.class
+com\raihanefelmaulana\peminjaman\service\PeminjamanServiceApplication.class
+com\raihanefelmaulana\peminjaman\service\Repository\PeminjamanRepository.class
+com\raihanefelmaulana\peminjaman\service\vo\Anggota.class
+com\raihanefelmaulana\peminjaman\service\Controller\PeminjamanController.class
+com\raihanefelmaulana\peminjaman\service\vo\Buku.class
+com\raihanefelmaulana\peminjaman\service\vo\ResponseTemplateVO.class
+com\raihanefelmaulana\peminjaman\service\Service\PeminjamanService.class
